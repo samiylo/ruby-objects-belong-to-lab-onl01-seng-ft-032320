@@ -4,5 +4,4 @@ class Post
   
 end
 
-post = Post.new 
 
